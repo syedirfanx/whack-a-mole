@@ -1,2 +1,2 @@
-# whack-a-mole
-A simple game in Java
+# Whack A Mole
+### CSE 215 Programming Language II (Summer 2016)
